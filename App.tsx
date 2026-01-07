@@ -16,7 +16,7 @@ export default function App() {
 
 const MainApp = () => {
   const { colors, setTheme } = useTheme();
-
+  // some theme test
   return (
     <View
       style={[
